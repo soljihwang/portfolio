@@ -1,1 +1,0 @@
-# soljihwang.github.io
