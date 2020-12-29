@@ -525,7 +525,9 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
+  font-size:15px;
   color:#000000;
+  line-height:25px;
 }
 #u14 {
   border-width:0px;
@@ -538,7 +540,9 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
+  font-size:15px;
   color:#000000;
+  line-height:25px;
 }
 #u14 .text {
   position:absolute;
@@ -567,7 +571,9 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
+  font-size:15px;
   color:#000000;
+  line-height:25px;
 }
 #u14.mouseOver {
 }
